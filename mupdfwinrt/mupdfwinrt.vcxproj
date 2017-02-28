@@ -132,11 +132,11 @@
       </PrecompiledHeaderOutputFile>
       <AdditionalUsingDirectories>$(WindowsSDK_WindowsMetadata);$(AdditionalUsingDirectories)</AdditionalUsingDirectories>
       <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
-      <AdditionalIncludeDirectories>../submodules/mupdf/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>../libmupdf/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
-      <AdditionalDependencies>runtimeobject.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libmupdf_winrt.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libthirdparty_winrt.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/Release/libfonts_winrt.lib</AdditionalDependencies>
+      <AdditionalDependencies>runtimeobject.lib;../libmupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libmupdf_winrt.lib;../libmupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libthirdparty_winrt.lib;../libmupdf/platform/win32/winrt/$(Platform)/Release/libfonts_winrt.lib</AdditionalDependencies>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
     </Link>
   </ItemDefinitionGroup>
@@ -150,11 +150,11 @@
       </PrecompiledHeaderOutputFile>
       <AdditionalUsingDirectories>$(WindowsSDK_WindowsMetadata);$(AdditionalUsingDirectories)</AdditionalUsingDirectories>
       <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
-      <AdditionalIncludeDirectories>../submodules/mupdf/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>../libmupdf/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
-      <AdditionalDependencies>runtimeobject.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libmupdf_winrt.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libthirdparty_winrt.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/Release/libfonts_winrt.lib</AdditionalDependencies>
+      <AdditionalDependencies>runtimeobject.lib;../libmupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libmupdf_winrt.lib;../libmupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libthirdparty_winrt.lib;../libmupdf/platform/win32/winrt/$(Platform)/Release/libfonts_winrt.lib</AdditionalDependencies>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
     </Link>
   </ItemDefinitionGroup>
@@ -168,11 +168,11 @@
       </PrecompiledHeaderOutputFile>
       <AdditionalUsingDirectories>$(WindowsSDK_WindowsMetadata);$(AdditionalUsingDirectories)</AdditionalUsingDirectories>
       <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
-      <AdditionalIncludeDirectories>../submodules/mupdf/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>../libmupdf/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
-      <AdditionalDependencies>runtimeobject.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libmupdf_winrt.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libthirdparty_winrt.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/Release/libfonts_winrt.lib</AdditionalDependencies>
+      <AdditionalDependencies>runtimeobject.lib;../libmupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libmupdf_winrt.lib;../libmupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libthirdparty_winrt.lib;../libmupdf/platform/win32/winrt/$(Platform)/Release/libfonts_winrt.lib</AdditionalDependencies>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
     </Link>
   </ItemDefinitionGroup>
@@ -186,11 +186,11 @@
       </PrecompiledHeaderOutputFile>
       <AdditionalUsingDirectories>$(WindowsSDK_WindowsMetadata);$(AdditionalUsingDirectories)</AdditionalUsingDirectories>
       <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
-      <AdditionalIncludeDirectories>../submodules/mupdf/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>../libmupdf/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
-      <AdditionalDependencies>runtimeobject.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libmupdf_winrt.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libthirdparty_winrt.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/Release/libfonts_winrt.lib</AdditionalDependencies>
+      <AdditionalDependencies>runtimeobject.lib;../libmupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libmupdf_winrt.lib;../libmupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libthirdparty_winrt.lib;../libmupdf/platform/win32/winrt/$(Platform)/Release/libfonts_winrt.lib</AdditionalDependencies>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
     </Link>
   </ItemDefinitionGroup>
@@ -204,11 +204,11 @@
       </PrecompiledHeaderOutputFile>
       <AdditionalUsingDirectories>$(WindowsSDK_WindowsMetadata);$(AdditionalUsingDirectories)</AdditionalUsingDirectories>
       <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
-      <AdditionalIncludeDirectories>../submodules/mupdf/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>../libmupdf/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
-      <AdditionalDependencies>runtimeobject.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/Release/libfonts_winrt.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libmupdf_winrt.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libthirdparty_winrt.lib</AdditionalDependencies>
+      <AdditionalDependencies>runtimeobject.lib;../libmupdf/platform/win32/winrt/$(Platform)/Release/libfonts_winrt.lib;../libmupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libmupdf_winrt.lib;../libmupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libthirdparty_winrt.lib</AdditionalDependencies>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
     </Link>
   </ItemDefinitionGroup>
@@ -222,11 +222,11 @@
       </PrecompiledHeaderOutputFile>
       <AdditionalUsingDirectories>$(WindowsSDK_WindowsMetadata);$(AdditionalUsingDirectories)</AdditionalUsingDirectories>
       <AdditionalOptions>/bigobj %(AdditionalOptions)</AdditionalOptions>
-      <AdditionalIncludeDirectories>../submodules/mupdf/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>../libmupdf/include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
-      <AdditionalDependencies>runtimeobject.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/Release/libfonts_winrt.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libmupdf_winrt.lib;../submodules/mupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libthirdparty_winrt.lib</AdditionalDependencies>
+      <AdditionalDependencies>runtimeobject.lib;../libmupdf/platform/win32/winrt/$(Platform)/Release/libfonts_winrt.lib;../libmupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libmupdf_winrt.lib;../libmupdf/platform/win32/winrt/$(Platform)/$(Configuration)/libthirdparty_winrt.lib</AdditionalDependencies>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
     </Link>
   </ItemDefinitionGroup>

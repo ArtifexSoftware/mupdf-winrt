@@ -1,7 +1,7 @@
 # Windows power shell script to copy the project files to the winRT types 
 # User should first open the visual studio solution for mupdf with VS 2015
 
-cd ./submodules/mupdf/platform/win32/
+cd ./libmupdf/platform/win32/
 
 # Copy first, and then setup libmupdf for using gs.  libmupdf_winrt does not
 # need gproof etc.

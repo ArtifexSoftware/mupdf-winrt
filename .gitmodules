@@ -1,3 +1,6 @@
 [submodule "submodules/mupdf"]
 	path = submodules/mupdf
 	url = git://git.ghostscript.com/mupdf.git
+[submodule "libmupdf"]
+	path = libmupdf
+	url = ../mupdf.git
